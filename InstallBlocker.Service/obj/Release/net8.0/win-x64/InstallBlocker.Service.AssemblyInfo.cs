@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InstallBlocker.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdd5e77020c9d0ccb875f18ff0115ec848448151")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcaaead92e7f7c32d9e19a96058019830d0428d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("InstallBlocker.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InstallBlocker.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

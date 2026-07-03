@@ -1,5 +1,11 @@
 ﻿using System.Diagnostics;
 
+if (!IsAdministrator())
+{
+    Console.Error.WriteLine("This tool must be run as Administrator.");
+    return;
+}
+
 var action = args.Length > 0 ? args[0].ToLowerInvariant() : "help";
 
 switch (action)
@@ -59,12 +65,18 @@ static void ShowHelp()
     Console.WriteLine("  status     Show service status");
 }
 
+static bool IsAdministrator()
+{
+    using var identity = System.Security.Principal.WindowsIdentity.GetCurrent();
+    var principal = new System.Security.Principal.WindowsPrincipal(identity);
+    return principal.IsInRole(System.Security.Principal.WindowsBuiltInRole.Administrator);
+}
+
 static void RunSc(string arguments)
 {
     var psi = new ProcessStartInfo("sc", arguments)
     {
         UseShellExecute = false,
-        Verb = "runas",
         RedirectStandardOutput = true,
         RedirectStandardError = true
     };
@@ -82,4 +94,7 @@ static void RunSc(string arguments)
 
     if (!string.IsNullOrWhiteSpace(error))
         Console.Error.WriteLine(error);
+
+    if (process.ExitCode != 0)
+        Environment.Exit(process.ExitCode);
 }

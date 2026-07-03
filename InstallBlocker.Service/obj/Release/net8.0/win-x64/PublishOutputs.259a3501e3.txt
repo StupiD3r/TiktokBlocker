@@ -30,6 +30,7 @@ C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Data.DataSet
 C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Data.dll
 C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Diagnostics.Contracts.dll
 C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Diagnostics.Debug.dll
+C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Diagnostics.DiagnosticSource.dll
 C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Diagnostics.FileVersionInfo.dll
 C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Diagnostics.Process.dll
 C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Diagnostics.StackTrace.dll
@@ -139,6 +140,8 @@ C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.ServiceProce
 C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Text.Encoding.CodePages.dll
 C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Text.Encoding.Extensions.dll
 C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Text.Encoding.dll
+C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Text.Encodings.Web.dll
+C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Text.Json.dll
 C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Text.RegularExpressions.dll
 C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Threading.Channels.dll
 C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Threading.Overlapped.dll
@@ -211,10 +214,6 @@ C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\Microsoft.Extension
 C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\Microsoft.Extensions.Options.dll
 C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\Microsoft.Extensions.Primitives.dll
-C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Diagnostics.DiagnosticSource.dll
 C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Diagnostics.EventLog.Messages.dll
 C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Diagnostics.EventLog.dll
-C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.IO.Pipelines.dll
 C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.ServiceProcess.ServiceController.dll
-C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Text.Encodings.Web.dll
-C:\Users\NiFer\Documents\CodeBase\InstallBlocker\bin\publish\System.Text.Json.dll
