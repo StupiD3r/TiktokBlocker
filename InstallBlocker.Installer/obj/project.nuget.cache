@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jsTxfIAvg4k=",
+  "dgSpecHash": "gQ9Ufs3mHFk=",
   "success": true,
   "projectFilePath": "C:\\Users\\NiFer\\Documents\\CodeBase\\InstallBlocker\\InstallBlocker.Installer\\InstallBlocker.Installer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\NiFer\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.11\\microsoft.netcore.app.runtime.win-x64.8.0.11.nupkg.sha512",
+    "C:\\Users\\NiFer\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.11\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.11.nupkg.sha512",
+    "C:\\Users\\NiFer\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.11\\microsoft.aspnetcore.app.runtime.win-x64.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

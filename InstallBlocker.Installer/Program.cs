@@ -20,10 +20,7 @@ switch (action)
 
 static void InstallService()
 {
-    var exePath = Path.GetFullPath(
-        Path.Combine(AppContext.BaseDirectory, "..", "..", "..", "..",
-            "InstallBlocker.Service", "bin", "Debug", "net8.0",
-            "InstallBlocker.Service.exe"));
+    var exePath = Path.Combine(AppContext.BaseDirectory, "InstallBlocker.Service.exe");
 
     if (!File.Exists(exePath))
     {

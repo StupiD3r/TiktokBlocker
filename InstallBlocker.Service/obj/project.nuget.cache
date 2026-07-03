@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ia+HaAu/rSg=",
+  "dgSpecHash": "5PficZJvz3U=",
   "success": true,
   "projectFilePath": "C:\\Users\\NiFer\\Documents\\CodeBase\\InstallBlocker\\InstallBlocker.Service\\InstallBlocker.Service.csproj",
   "expectedPackageFiles": [
@@ -37,7 +37,10 @@
     "C:\\Users\\NiFer\\.nuget\\packages\\system.io.pipelines\\10.0.9\\system.io.pipelines.10.0.9.nupkg.sha512",
     "C:\\Users\\NiFer\\.nuget\\packages\\system.serviceprocess.servicecontroller\\10.0.9\\system.serviceprocess.servicecontroller.10.0.9.nupkg.sha512",
     "C:\\Users\\NiFer\\.nuget\\packages\\system.text.encodings.web\\10.0.9\\system.text.encodings.web.10.0.9.nupkg.sha512",
-    "C:\\Users\\NiFer\\.nuget\\packages\\system.text.json\\10.0.9\\system.text.json.10.0.9.nupkg.sha512"
+    "C:\\Users\\NiFer\\.nuget\\packages\\system.text.json\\10.0.9\\system.text.json.10.0.9.nupkg.sha512",
+    "C:\\Users\\NiFer\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.11\\microsoft.netcore.app.runtime.win-x64.8.0.11.nupkg.sha512",
+    "C:\\Users\\NiFer\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.11\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.11.nupkg.sha512",
+    "C:\\Users\\NiFer\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.11\\microsoft.aspnetcore.app.runtime.win-x64.8.0.11.nupkg.sha512"
   ],
   "logs": []
 }
