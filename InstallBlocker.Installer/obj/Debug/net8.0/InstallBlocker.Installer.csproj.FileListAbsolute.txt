@@ -1,0 +1,14 @@
+C:\Users\NiFer\Documents\CodeBase\InstallBlocker\InstallBlocker.Installer\bin\Debug\net8.0\InstallBlocker.Installer.exe
+C:\Users\NiFer\Documents\CodeBase\InstallBlocker\InstallBlocker.Installer\bin\Debug\net8.0\InstallBlocker.Installer.deps.json
+C:\Users\NiFer\Documents\CodeBase\InstallBlocker\InstallBlocker.Installer\bin\Debug\net8.0\InstallBlocker.Installer.runtimeconfig.json
+C:\Users\NiFer\Documents\CodeBase\InstallBlocker\InstallBlocker.Installer\bin\Debug\net8.0\InstallBlocker.Installer.dll
+C:\Users\NiFer\Documents\CodeBase\InstallBlocker\InstallBlocker.Installer\bin\Debug\net8.0\InstallBlocker.Installer.pdb
+C:\Users\NiFer\Documents\CodeBase\InstallBlocker\InstallBlocker.Installer\obj\Debug\net8.0\InstallBlocker.Installer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NiFer\Documents\CodeBase\InstallBlocker\InstallBlocker.Installer\obj\Debug\net8.0\InstallBlocker.Installer.AssemblyInfoInputs.cache
+C:\Users\NiFer\Documents\CodeBase\InstallBlocker\InstallBlocker.Installer\obj\Debug\net8.0\InstallBlocker.Installer.AssemblyInfo.cs
+C:\Users\NiFer\Documents\CodeBase\InstallBlocker\InstallBlocker.Installer\obj\Debug\net8.0\InstallBlocker.Installer.csproj.CoreCompileInputs.cache
+C:\Users\NiFer\Documents\CodeBase\InstallBlocker\InstallBlocker.Installer\obj\Debug\net8.0\InstallBlocker.Installer.dll
+C:\Users\NiFer\Documents\CodeBase\InstallBlocker\InstallBlocker.Installer\obj\Debug\net8.0\refint\InstallBlocker.Installer.dll
+C:\Users\NiFer\Documents\CodeBase\InstallBlocker\InstallBlocker.Installer\obj\Debug\net8.0\InstallBlocker.Installer.pdb
+C:\Users\NiFer\Documents\CodeBase\InstallBlocker\InstallBlocker.Installer\obj\Debug\net8.0\InstallBlocker.Installer.genruntimeconfig.cache
+C:\Users\NiFer\Documents\CodeBase\InstallBlocker\InstallBlocker.Installer\obj\Debug\net8.0\ref\InstallBlocker.Installer.dll
